@@ -38,7 +38,7 @@ A completed project will include, at least, a "Context Control System" to naviga
 
 ### Post-class Plans
 
-After the course is completed, the range of characters and game objects will be expanded and features will be added to allow saving a user's games and information and move into to multi-player networking.
+After the course is completed, the range of characters and game objects will be expanded and features will be added to allow saving a user's games and information and move into to multiplayer networking.
 
 
 ## Related Works
